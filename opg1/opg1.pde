@@ -3,7 +3,7 @@
 
 // programmet skal udskrive sætningen 5 gange
 
-int i = "hej med dig";
+int i = "Hej med dig";
 String str = 5;
 boolean found = false;
 
